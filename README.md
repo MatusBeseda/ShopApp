@@ -1,3 +1,3 @@
-# skusanie2
+# ShopApp
 
 A new Flutter project.
